@@ -1,5 +1,5 @@
  - 👋 Hello there, I'm Luiz, a starter Full Stack Dev
- - 💻 Web developing a website that consumes a API(RestCountries) to list and display information about countries around the world, in addition to having a login screen for personalized use of this data.
+ - 💻 Practicing with a web development project, it consists of a website that consumes an API (RestCountries) to list and display information about countries around the world. In addition to having a login screen for personalized use of this data.
  - 🔍 In a constant search for knowledge
 
  <hr>
